@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'D:/Projects/Java/Estructura/Estructura_HashMap/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Projects/Java/Estructura/Estructura_HashMap/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Estructura_HashMap 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Estructura_HashMap 1.0-SNAPSHOT API'
+estructuras
+D:\Projects\Java\Estructura\Estructura_HashMap\src\main\java = 1764995907099
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\allclasses-index.html = 1764998190733
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\allpackages-index.html = 1764998190804
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\element-list = 1764998190680
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\help-doc.html = 1764998190825
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\index-all.html = 1764998190817
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\index.html = 1764998190821
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\member-search-index.js = 1764998190809
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\module-search-index.js = 1764998190806
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\overview-tree.html = 1764998190722
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\package-search-index.js = 1764998190807
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\search.html = 1764998190819
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\tag-search-index.js = 1764998190809
+D:\Projects\Java\Estructura\Estructura_HashMap\target\reports\apidocs\type-search-index.js = 1764998190808
